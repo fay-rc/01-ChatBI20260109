@@ -1,0 +1,5 @@
+{
+  "name": "数据分析师智能体",
+  "description": "一个功能强大的数据分析助手，支持上传 CSV 和 Excel 文件，通过自然语言进行实时数据查询、智能解读并生成可视化报告。",
+  "requestFramePermissions": []
+}
